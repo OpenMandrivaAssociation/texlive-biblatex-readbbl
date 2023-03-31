@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-readbbl
 Version:	61549
-Release:	1
+Release:	2
 Summary:	Read a .bbl file created by biber
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-readbbl
