@@ -3,7 +3,7 @@ Version:	61549
 Release:	2
 Summary:	Read a .bbl file created by biber
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-readbbl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-readbbl
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-readbbl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-readbbl.doc.r%{version}.tar.xz
